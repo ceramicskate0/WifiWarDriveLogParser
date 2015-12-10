@@ -1,6 +1,5 @@
 # WifiWarDriveLogParser
 Parse Kismet Logs in Windows Forms and outputs a CSV.
 
-TODO:
-Output more log types
-Input terms to find other than (SSID,BSSID, CH,Encryption)
+DISCONTINUED 
+WIll be building frame work to parse or search text log outputs which will replace this half done repo
